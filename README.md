@@ -52,7 +52,7 @@ apt install python3-bitarray
 
 apt install python3-dev
 
-git clone https://github.com/lz5pn/HBlink3
+git clone https://github.com/francedmr/HBlink3-maint2.git
 
 mv /opt/HBlink3/ /opt/backup/
 
@@ -199,7 +199,4 @@ systemctl status hbmon
 # Forward TCP ports 8080 and 9000 in router firewall
 
 
-My HBlink servers: http://kario88.dynamic-dns.net:8184/ and http://lz5pn.freeddns.com:8184/
 
-
-73 de LZ5PN
